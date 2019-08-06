@@ -1850,6 +1850,12 @@ pre code {
   -webkit-overflow-scrolling: touch;
 }
 
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
 .table-responsive > .table-bordered {
   border: 0;
 }
